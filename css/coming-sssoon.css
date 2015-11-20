@@ -134,8 +134,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     border-color: #999999
 }
 .btn-primary {
-    color: #3472F7;
-    border-color: #3472F7;
+    color: #2196f3;
+    border-color: #2196f3;
 }
 .btn-info{
      color: #2C93FF;
@@ -230,8 +230,8 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     border-color: #999999
 }
 .btn-primary.btn-fill{
-    background-color: #3472F7;
-    border-color: #3472F7;
+    background-color: #2196f3;
+    border-color: #2196f3;
 }
 .btn-info.btn-fill{
     background-color: #2C93FF;
